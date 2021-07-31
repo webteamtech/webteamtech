@@ -1,6 +1,6 @@
-webteamtech
+## webteamtech
 
-Tooling:
+### Tooling:
     • Hardware Dell G7 7700
     • OS Linux Mint
     • Template responsive Solid State by @ajlkn http://html5up.net 
