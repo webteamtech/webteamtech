@@ -11,4 +11,3 @@ Tooling:
     • Add to Google Search via http://www.google.com/ping?sitemap=https://webteam.tech/sitemap.xml 
     • Source https://www.summertime.tech/theweb.html
     
-         
