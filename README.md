@@ -1,4 +1,4 @@
-**webteamtech/webteamtech** 
+webteamtech
 
 Tooling:
     • Hardware Dell G7 7700
