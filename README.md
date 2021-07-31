@@ -2,7 +2,7 @@
 
 Tooling:
     • Hardware Dell G7 7700
-    • OS Linux Mint 
+    • OS Linux Mint
     • Template responsive Solid State by @ajlkn http://html5up.net 
     • Language HTML5, CSS3 
     • Editor Sublime Text & Prettier 
@@ -10,4 +10,5 @@ Tooling:
     • Sitemap generator www.xml-sitemaps.com 
     • Add to Google Search via http://www.google.com/ping?sitemap=https://webteam.tech/sitemap.xml 
     • Source https://www.summertime.tech/theweb.html
-      
+    
+         
